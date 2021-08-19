@@ -1,8 +1,8 @@
 
-1.	Install GIT
-2.	Request for BITBUCKET repository access
-3.	Check whether GIT Bash terminal is available in windows apps
-4.	Configuration Steps:
+* Install GIT
+* Request for BITBUCKET repository access
+* Check whether GIT Bash terminal is available in windows apps
+## Configuration Steps:
 Configuring your repository for first time: 
 
 Enter the following commands on your Git Bash, when you configure your Git for the first time.
