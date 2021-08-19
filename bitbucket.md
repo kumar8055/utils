@@ -9,7 +9,7 @@ Enter the following commands on your Git Bash, when you configure your Git for t
 
 `git config --global user.name "User Name"` (Please provide your name here)
 
-`git config --global user.email email id` (Please provide your email id here)  
+`git config --global user.email email_id` (Please provide your email id here)  
 
  git config – to configure the code from Remote repository to local repository
 
