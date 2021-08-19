@@ -37,8 +37,6 @@ Developers are suppose to work from Feature Branch only , so create a Feature Br
 
 * Click on Create branch from options available next to master/main 
 * Enter the branch name (ex: feature) -- choose branch from option.
-
-## Git Pull:
 * If Developer wants to get the latest changes from the Develop branch they can use pull command. 
 
 `Note:` Since multiple developers are working on the same code, it is always best practice to run the pull command while adding the latest code to the local repository. 
